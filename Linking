@@ -24,5 +24,22 @@
     <br/>
     <h1>H<sub>2</sub>o</h1>
     <h1>2<sup>3</sup></h1>
+     <blackquote>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus officia omnis quam deserunt, reprehenderit dolore.
+    </blackquote>
+    <q>
+        Lorem ipsum dolor sit amet.
+    </q>
+    <address>  
+        KIET MCA
+        13 Milestone
+        Murad Nagar,Ghaziabad.
+    </address>
+    <cite>
+        KIET MCA<br/>
+        13 Milestone<br/>
+        Murad Nagar,Ghaziabad.
+    </cite>
+    <abbr title="Krishna Institute of Technology">KIET</abbr>
 </body>
 </html>
